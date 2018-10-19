@@ -1,0 +1,44 @@
+item {
+  id: 1
+  name: 'redsquare'
+}
+
+item {
+  id: 2
+  name: 'greensquare'
+}
+
+item {
+  id: 3
+  name: 'bluesquare'
+}
+
+item {
+  id: 4
+  name: 'redcircle'
+}
+
+item {
+  id: 5
+  name: 'greencircle' 
+}
+
+item {
+  id: 6
+  name: 'bluecircle'
+}
+
+item {
+  id: 7
+  name: 'redtriangle'
+}
+
+item {
+  id: 8
+  name: 'greentriangle'
+}
+
+item {
+  id: 9
+  name: 'bluetriangle'
+}
